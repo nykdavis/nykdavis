@@ -1,4 +1,4 @@
-<img align="right" alt="Coading" width="1500" src = "https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA](https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif)](https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif">
+<img align="right" alt="Coading" width="1500" src = "https://jusmarktech.com/public/a/images/pages/web_development.gif">
 <h1 align="center">Hi 👋, I'm Davis Nayak</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coading" width="400" src = "https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
