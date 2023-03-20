@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](<img align="right" alt="Coading"  src = "[https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA](https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif)">
 <h1 align="center">Hi 👋, I'm Davis Nayak</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coading" width="400" src = "https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
