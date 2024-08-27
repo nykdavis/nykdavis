@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@davis_nayak" target="blank"><img src="https://img.shields.io/twitter/follow/@davis_nayak?logo=twitter&style=for-the-badge" alt="@davis_nayak" /></a> </p>
 
-- 🔭 I’m currently working on **DataStructureAlgo**
+- 🔭 I’m currently working on **SpringBoot-EmployeeCRUD**
 
-- 🌱 I’m currently learning **Spring Security**
+- 🌱 I’m currently learning **Apachee Kafka**
 
 - 💬 Ask me about **Java, Spring Boot**
 
